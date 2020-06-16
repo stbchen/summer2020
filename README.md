@@ -7,4 +7,6 @@ $ cat <file> | sort | uniq
 Environment setup
 1. Install Python
 2. Create Repository on GitHub
-3. Install Bash Shell on Window: https://itsfoss.com/install-bash-on-windows/
+
+Assignment 1:
+  Give a word, find number of consonants.
