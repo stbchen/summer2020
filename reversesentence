@@ -1,0 +1,9 @@
+def sentence(stuff):
+  str1 = " "
+  stuff2 = stuff.split()
+  stuff2.reverse()
+  return str1.join(stuff2)
+
+print("Enter word (NO NON LETTER CHARACTERS): ")
+word = input()
+sentence(word)
